@@ -21,7 +21,9 @@ In addition to individual projects, I have experience with MLOps (Machine Learni
 
 ## About Me
 
-My name is Sathees Paskaran, a recent graduate in IT Data Science. I have a strong passion for innovation and applying cutting-edge technologies for good. I have worked on more than 8 campus project as a team lead, and as a Software Engineering (BI, Data Engineering) intern at iTelaSoft Pvt. Ltd. I have conducted a successfull research project called CarboMeter (own idea, and leadership) which I have won till Imagine Cup 2023 world finalist. But now I focus on building a career on AI and applying it to real-world problems. For this I have completed many MOOC courses (listed on my LinekdIn profile). I am now learning PyTorch, Tensorflow, Scikit-Learn and MLOps. I am building this repo to showcase my portfolio projects to recruiters and connections.
+My name is Sathees Paskaran, and I am a recent graduate in IT Data Science. I have a strong passion for innovation and applying cutting-edge technologies for the greater good. I have experience working on more than 8 campus projects as a team lead, and I have worked as a Software Engineering (BI, Data Engineering) intern at iTelaSoft Pvt. Ltd.
+
+One of my most successful projects was CarboMeter, which I researched and led myself. This project won me recognition as a finalist at the Imagine Cup 2023. However, I am now focused on building a career in AI and applying it to real-world problems. To achieve this, I have completed several MOOC courses (which are listed on my LinkedIn profile) and am currently learning PyTorch, Tensorflow, Scikit-Learn, and MLOps. I am building this repository to showcase my portfolio projects to recruiters and connections.
 
 ## Contact Information
 
