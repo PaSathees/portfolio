@@ -6,7 +6,7 @@ Welcome to my AI project portfolio! This repository showcases a collection of ma
 
 | Project | Description | Technologies | Code | Demo | Key Features |
 | ------- | ----------- | ------------ | ---- | ---- | ------------ |
-| [Neural Network with Numpy](NUMPY/NN-WITH-NUMPY/NN_with_Numpy.ipynb) | Building ANN (Artificial Neural Networks) from scratch and testing it on a standard dataset. | Python,Numpy | [GitHub Folder](NUMPY/NN-WITH-NUMPY) | [Demo Notebook](NUMPY/NN-WITH-NUMPY/NN_with_Numpy.ipynb) | - Learned under the hood operations of ANN models such as Weight initialization, activations, forward propagation, loss functions (binary cross entropy, categorical cross entropy), backward propagation, updating parameters, making predictions, testing with dummy dataset and MNIST data. |
+| [Neural Network with Numpy](NUMPY/NN-WITH-NUMPY/NN_with_Numpy.ipynb) | Building ANN (Artificial Neural Networks) from scratch and testing it on a standard dataset. | Python, Numpy | [GitHub Folder](NUMPY/NN-WITH-NUMPY) | [Demo Notebook](NUMPY/NN-WITH-NUMPY/NN_with_Numpy.ipynb) | - Learned under the hood operations of ANN models such as Weight initialization, activations, forward propagation, loss functions (binary cross entropy, categorical cross entropy), backward propagation, updating parameters, making predictions, testing with dummy dataset and MNIST data. |
 
 <!-- ## MLOps
 
