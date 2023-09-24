@@ -54,8 +54,7 @@ Updated on: 11 Sept 2023
 | Anomaly Detection      | - [Credit card fraud data](link_to_fraud_data) | - [Anomaly Detection in Financial Transactions](link_to_fraud_detection), <br> - [Network Intrusion Detection](link_to_network_anomaly_detection) | - [SOTA](link_to_anomaly_detection_sota) | -  |
 | Recommendation Systems | - [MovieLens](link_to_movielens), <br> - [Amazon reviews](link_to_amazon_reviews) | - [Movie Recommendations](link_to_movie_recommendations), <br> - [E-commerce Product Recommendations](link_to_ecommerce_recommendations) | - [SOTA](link_to_recommender_sota) | -  |
 | Semantic Segmentation  | - [Pascal VOC](link_to_pascal_voc), <br> - [Cityscapes](link_to_cityscapes) | - [Semantic Image Segmentation](link_to_semantic_segmentation), <br> - [Autonomous Driving](link_to_autonomous_driving) | - [SOTA](link_to_segmentation_sota)  | - 
-| Speech Recognition     | - [LibriSpeech](link_to_librispeech), <br> - [Common Voice](link_to_common_voice) | - [Speech-to-Text Conversion](link_to_speech_to_text), <br> - [Voice Assistants](link_to_voice_assistants) | - [SOTA](link_to_asr_sota) | -
--  |
+| Speech Recognition     | - [LibriSpeech](link_to_librispeech), <br> - [Common Voice](link_to_common_voice) | - [Speech-to-Text Conversion](link_to_speech_to_text), <br> - [Voice Assistants](link_to_voice_assistants) | - [SOTA](link_to_asr_sota) | - |
 
 <!-- 
 | Item       | Description  | Price |
