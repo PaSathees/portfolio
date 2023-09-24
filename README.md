@@ -57,17 +57,18 @@ Updated on: 11 Sept 2023
 | Speech Recognition     | - [LibriSpeech](link_to_librispeech), <br> - [Common Voice](link_to_common_voice) | - [Speech-to-Text Conversion](link_to_speech_to_text), <br> - [Voice Assistants](link_to_voice_assistants) | - [SOTA](link_to_asr_sota) | -
 -  |
 
+<!-- 
 | Item       | Description  | Price |
 |------------|--------------|-------|
 | Product 1  | Description1 | $10   |
-|| Description1.1 | $5  |  <!-- Sub-row 1 -->
-|            | Description1.2 | $5  |  <!-- Sub-row 2 -->
+|            | Description1.1 | $5  | 
+|            | Description1.2 | $5  |  
 | Product 2  | Description2 | $20   |
-|            | Description2.1 | $10 |  <!-- Sub-row 1 -->
-|            | Description2.2 | $10 |  <!-- Sub-row 2 -->
+|            | Description2.1 | $10 |  
+|            | Description2.2 | $10 |  
 | Product 3  | Description3 | $30   |
 
-
+-->
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for detail
